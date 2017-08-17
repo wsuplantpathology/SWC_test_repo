@@ -2,3 +2,4 @@ This is my first line
 What happens when i add a second line?
 third line
 forth line
+fifth
