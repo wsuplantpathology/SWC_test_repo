@@ -1,6 +1,5 @@
-ref 1: stripe rust, 2017
+ref 1: stripe rust
 ref 2: stem rust
 ref 3: leaf rust
 ref 4: poplar rust
 ref 5: barley rust
-ref 6: xia et al. 2107
